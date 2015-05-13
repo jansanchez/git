@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ar
+=======
+archivo modificado 1 ve 
+>>>>>>> cf1edc0febbfb583902d2b228c71fa18ce19a3a2
