@@ -1,2 +1,1 @@
 archivo 1
-corrijo el bug de los botones
